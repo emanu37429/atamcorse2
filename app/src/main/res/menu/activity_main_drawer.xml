@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Bus ATAM">
+            <menu>
+                <item
+                    android:id="@+id/nav_lineefermate"
+                    android:icon="@drawable/ic_directions_bus_black_24dp"
+                    android:title="Linee e fermate" />
+                <item
+                    android:id="@+id/nav_percorsi_cerca"
+                    android:icon="@drawable/ic_swap_calls_black_24dp"
+                    android:title="Cerca" />
+                <item
+                    android:id="@+id/nav_mappa"
+                    android:icon="@drawable/ic_map_white_24dp"
+                    android:title="Mappa" />
+                <item
+                    android:id="@+id/nav_news"
+                    android:icon="@drawable/ic_newspaper_black_24dp"
+                    android:title="News" />
+                <item
+                    android:id="@+id/nav_atcnews"
+                    android:icon="@drawable/ic_newspaper_black_24dp"
+                    android:title="\@atamcorse" />
+                <item
+                    android:id="@+id/nav_varie"
+                    android:icon="@drawable/ic_view_module_black_24dp"
+                    android:title="Varie" />
+                <item
+                    android:id="@+id/nav_preferenze"
+                    android:icon="@drawable/ic_settings_black_24dp"
+                    android:title="Preferenze" />
+            </menu>
+        </item>
+        <item android:title="Trenitalia">
+            <menu>
+                <item
+                    android:id="@+id/nav_cercatr"
+                    android:icon="@drawable/ic_baseline_access_time_24px"
+                    android:title="Cerca orario" />
+                <item
+                    android:id="@+id/cercast"
+                    android:icon="@drawable/ic_baseline_subway_24px"
+                    android:title="Info stazione" />
+                <item
+                    android:id="@+id/nav_mappast"
+                    android:icon="@drawable/ic_map_white_24dp"
+                    android:title="Mappa stazioni" />
+                <item
+                    android:id="@+id/nav_infotreno"
+                    android:icon="@drawable/ic_baseline_train_24px"
+                    android:title="Info treno" />
+                <item
+                    android:id="@+id/nav_infomb"
+                    android:icon="@drawable/ic_info_outline_white_24dp"
+                    android:title="RFI Infomobilità" />
+                <item
+                    android:id="@+id/nav_infotr"
+                    android:icon="@drawable/ic_info_outline_white_24dp"
+                    android:title="Trenitalia InfoTreni" />
+            </menu>
+        </item>
+        <item android:title="Altro">
+            <menu>
+                <item
+                    android:id="@+id/nav_info"
+                    android:icon="@drawable/ic_info_outline_white_24dp"
+                    android:title="Informazioni" />
+            </menu>
+        </item>
+    </group>
+</menu>

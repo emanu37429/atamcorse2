@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ATAM Corse</string>
+    <string name="navigation_drawer_open">Apri drawer</string>
+    <string name="navigation_drawer_close">Chiudi drawer</string>
+    <string-array name="itemslistview">
+        <item>Elenco veicoli (agg. 2018)</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

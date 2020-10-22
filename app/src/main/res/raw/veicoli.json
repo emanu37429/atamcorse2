@@ -1,0 +1,542 @@
+[
+  {
+    "id": "400100",
+    "modello": "n.d."
+  },
+  {
+    "id": "400236",
+    "modello": "Iveco-FIAT 316E.8.18"
+  },
+  {
+    "id": "400241",
+    "modello": "Iveco-FIAT 316E.8.18"
+  },
+  {
+    "id": "400272",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400275",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400277",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400278",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400281",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400282",
+    "modello": "Cityclass 491.E.12.29"
+  },
+  {
+    "id": "400285",
+    "modello": "Europolis 203.E.9.26"
+  },
+  {
+    "id": "400289",
+    "modello": "Europolis 203.E.9.26"
+  },
+  {
+    "id": "400293",
+    "modello": "Irisbus Euroclass"
+  },
+  {
+    "id": "400295",
+    "modello": "Iveco Cacciamali 65C Urby"
+  },
+  {
+    "id": "400297",
+    "modello": "Iveco Cacciamali 65C Urby"
+  },
+  {
+    "id": "400298",
+    "modello": "Iveco Cacciamali 65C Urby"
+  },
+  {
+    "id": "400299",
+    "modello": "Iveco Cacciamali 65C Urby"
+  },
+  {
+    "id": "400300",
+    "modello": "Iveco Cacciamali 65C Urby"
+  },
+  {
+    "id": "400310",
+    "modello": "BredaMenariniB AvantCity"
+  },
+  {
+    "id": "400311",
+    "modello": "BredaMenariniB AvantCity"
+  },
+  {
+    "id": "400312",
+    "modello": "BredaMenariniB AvantCity"
+  },
+  {
+    "id": "400313",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400314",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400316",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400317",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400319",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400320",
+    "modello": "Cityclass 491.E.10.29"
+  },
+  {
+    "id": "400321",
+    "modello": "Irisbus Iveco CityClass"
+  },
+  {
+    "id": "400322",
+    "modello": "Europolis 203.E.9.26"
+  },
+  {
+    "id": "400328",
+    "modello": "Irisbus CityClass 591 12"
+  },
+  {
+    "id": "400333",
+    "modello": "Irisbus Orlandi Happy"
+  },
+  {
+    "id": "400334",
+    "modello": "Neoplan N312K"
+  },
+  {
+    "id": "400335",
+    "modello": "BredaMenariniB M 231/E5 M E U/3P"
+  },
+  {
+    "id": "400336",
+    "modello": "BredaMenariniB 231 M Vivacity"
+  },
+  {
+    "id": "400337",
+    "modello": "BredaMenariniB M 231/E5 M E U/3P"
+  },
+  {
+    "id": "400341",
+    "modello": "Man AG A476 NM 223.2"
+  },
+  {
+    "id": "400342",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400343",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400344",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400345",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400346",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400348",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400349",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400350",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400351",
+    "modello": "Citelis 12 mt"
+  },
+  {
+    "id": "400352",
+    "modello": "BredaMenariniB M 231/E5 M E U/3P"
+  },
+  {
+    "id": "400353",
+    "modello": "BredaMenariniB M 231/E5 M E U/3P"
+  },
+  {
+    "id": "400354",
+    "modello": "BredaMenariniB Vivacity"
+  },
+  {
+    "id": "400355",
+    "modello": "Vivacity Plus C"
+  },
+  {
+    "id": "400359",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400360",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400361",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400362",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400363",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400364",
+    "modello": "Citelis 10,5 mt"
+  },
+  {
+    "id": "400365",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400366",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400367",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400368",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400369",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400370",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400371",
+    "modello": "Vivacity Plus MU/3P/E5"
+  },
+  {
+    "id": "400372",
+    "modello": "Vivacity Plus CU/2P/E5"
+  },
+  {
+    "id": "400373",
+    "modello": "Vivacity Plus CU/2P/E5"
+  },
+  {
+    "id": "400374",
+    "modello": "Vivacity Plus CU/2P/E5"
+  },
+  {
+    "id": "400375",
+    "modello": "Vivacity Plus C"
+  },
+  {
+    "id": "400376",
+    "modello": "Vivacity Plus M"
+  },
+  {
+    "id": "400377",
+    "modello": "Vivacity Plus M"
+  },
+  {
+    "id": "400378",
+    "modello": "Vivacity Plus M"
+  },
+  {
+    "id": "400379",
+    "modello": "Avancity Plus NU/3P"
+  },
+  {
+    "id": "400380",
+    "modello": "Iveco 380E.12.38 HD"
+  },
+  {
+    "id": "400381",
+    "modello": "Volvo B12B FS 420 BARBI"
+  },
+  {
+    "id": "400382",
+    "modello": "Navigo City"
+  },
+  {
+    "id": "400383",
+    "modello": "Navigo City"
+  },
+  {
+    "id": "400384",
+    "modello": "n.d."
+  },
+  {
+    "id": "400385",
+    "modello": "Vivacity Euro 6"
+  },
+  {
+    "id": "400386",
+    "modello": "Vivacity Euro 6"
+  },
+  {
+    "id": "400387",
+    "modello": "Vivacity Euro 6"
+  },
+  {
+    "id": "400388",
+    "modello": "Vivacity Euro 6"
+  },
+  {
+    "id": "400389",
+    "modello": "Vivacity Euro 6"
+  },
+  {
+    "id": "400390",
+    "modello": "Vivacity Euro 6"
+  },
+  {
+    "id": "400391",
+    "modello": "BredaMenariniB Citymood"
+  },
+  {
+    "id": "400392",
+    "modello": "BredaMenariniB Citymood"
+  },
+  {
+    "id": "400393",
+    "modello": "BredaMenariniB 231 M"
+  },
+  {
+    "id": "400394",
+    "modello": "BredaMenariniB 231 M"
+  },
+  {
+    "id": "400395",
+    "modello": "Mercedes 0404"
+  },
+  {
+    "id": "400396",
+    "modello": "Neoplan N 313 SHD"
+  },
+  {
+    "id": "400397",
+    "modello": "Mercedes 0404"
+  },
+  {
+    "id": "400398",
+    "modello": "Neoplan N312K"
+  },
+  {
+    "id": "400399",
+    "modello": "Heuliez Bus GX137 3P"
+  },
+  {
+    "id": "400400",
+    "modello": "Heuliez Bus GX137 3P"
+  },
+  {
+    "id": "400401",
+    "modello": "Heuliez Bus GX137 3P"
+  },
+  {
+    "id": "400402",
+    "modello": "Heuliez Bus GX137 3P"
+  },
+  {
+    "id": "400403",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400404",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400405",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400406",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400407",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400408",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400409",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400410",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400411",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400412",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400413",
+    "modello": "Mercedes Tourino O510"
+  },
+  {
+    "id": "400414",
+    "modello": "Mercedes Tourino O510"
+  },
+  {
+    "id": "400415",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400416",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400417",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400418",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400419",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400420",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400421",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400422",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400423",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400424",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400425",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400426",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400427",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400428",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400429",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400430",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400431",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400432",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400433",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400434",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400435",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400436",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400437",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400438",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400439",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400440",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400441",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400442",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400443",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400444",
+    "modello": "BredaMenarini CityMood10"
+  },
+  {
+    "id": "400445",
+    "modello": "Mercedes Sprinter"
+  }
+]
